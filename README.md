@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @D4c4n
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me: Please don't.
+- 👋 Hi, I’m @D4C4N but you can also call me D4, Daniel or Dan.
+- 👀 I’m interested in cats, gaming, music, guitar and coding. 
+- 🌱 I’m currently learning HTML, CSS, JS and C#.
+- 💞️ I’m not actively looking for collaborations.
+- 📫 How to reach me: Email me at d@c4n.lol or dacan1508@gmail.com.
 
 <!---
 D4c4n/D4c4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
