@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4C4N but you can also call me D4, Daniel or Dan.
 - 👀 I’m interested in cats, gaming, music, guitar and coding. 
-- 🌱 I’m currently learning HTML, CSS, JS, C# and C++.
+- 🌱 I’m currently learning things I don't understand.
 - 💞️ I’m not actively looking for collaborations.
 - 📫 How to reach me: Email me at d@c4n.lol or dacan1508@gmail.com.
 
