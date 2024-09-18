@@ -2,7 +2,7 @@
 - 👀 I’m interested in cats, gaming, music, guitar and coding. 
 - 🌱 I’m currently learning things I don't understand.
 - 💞️ I’m not actively looking for collaborations.
-- 📫 How to reach me: Email me at d@c4n.lol or dacan1508@gmail.com.
+- 📫 How to reach me: Email me at or dacan1508@gmail.com.
 
 <!---
 D4c4n/D4c4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
