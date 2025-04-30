@@ -13,7 +13,7 @@ Trying to wrap my head around things I don't fully understand yet — but that�
 - C#
 - Vue.js and other WebDev bits and pieces
 
-## 💌 Reach me
+## 💌 Reach me (or don't)
 📫 **dacan1508@gmail.com**
 
 <!---
