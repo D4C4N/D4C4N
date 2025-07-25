@@ -24,7 +24,6 @@ public class D4C4N
         Console.WriteLine("You can call me: " + string.Join(", ", Nicknames));
         Console.WriteLine($"🎓 I'm currently studying: {FieldOfStudy}");
         Console.WriteLine("🎮 Outside of coding, I'm into: " + string.Join(", ", Interests));
-        Console.WriteLine("🌱 Currently learning: Trying to wrap my head around things I don't fully understand yet — but that's part of the fun!");
         Console.WriteLine("🛠 Tech stack: " + string.Join(", ", TechStack));
         Console.WriteLine("💌 Reach me at: " + Email);
     }
