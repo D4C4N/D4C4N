@@ -1,20 +1,34 @@
-# 👋 Hey there, I'm D4C4N
+```CSharp
+public class D4C4N
+{
+    public string Username { get; set; } = "D4C4N";
+    public string Name { get; } = "Daniel";
+    public string[] Nicknames { get; } = { "D4", "Daniel", "Dan" };
+    public string FieldOfStudy { get; } = "Applied Computer Science";
+    public string[] Interests { get; } = { "cats", "gaming", "music", "guitar" };
+    public bool IsAlive { get; set; } = true;
+    public int? Age { get; set; } = 26;
 
-You can call me **D4**, **Daniel**, or **Dan** — whichever works for you!
+    public List<string> TechStack { get; } = new List<string>
+    {
+        "C", "C#", "React", "HTML", "CSS", "JavaScript"
+    };
 
-🎓 I'm currently studying **Applied Computer Science**  
-🎮 Outside of coding, I’m into **cats**, **gaming**, **music**, and playing the **guitar**
+    public string FavoriteLanguage => TechStack.Contains("C#") ? "C#" : TechStack[0];
 
-## 🌱 Currently learning
-Trying to wrap my head around things I don't fully understand yet — but that’s part of the fun, right?
+    public string Email { get; } = "dacan1508@gmail.com";
 
-## 🛠 Tech stack
-- C
-- C#
-- Vue.js and other WebDev bits and pieces
-
-## 💌 Reach me
-📫 **dacan1508@gmail.com**
+    public void Introduce()
+    {
+        Console.WriteLine("👋 Hey there, I'm " + Username);
+        Console.WriteLine("You can call me: " + string.Join(", ", Nicknames));
+        Console.WriteLine($"🎓 I'm currently studying: {FieldOfStudy}");
+        Console.WriteLine("🎮 Outside of coding, I'm into: " + string.Join(", ", Interests));
+        Console.WriteLine("🛠 Tech stack: " + string.Join(", ", TechStack));
+        Console.WriteLine("💌 Reach me at: " + Email);
+    }
+}
+```
 
 <!---
 D4c4n/D4c4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
